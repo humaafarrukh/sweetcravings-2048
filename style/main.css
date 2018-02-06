@@ -319,7 +319,7 @@ hr {
     z-index: 10;
     font-size: 55px; }
   .tile.tile-2 .tile-inner {
-   background-image: url('styletile/128.jpg');
+   background-image: url('styletile/2.jpg');
       ;
     background-size: cover; }
   .tile.tile-4 .tile-inner {
@@ -327,11 +327,11 @@ hr {
     
     background-size: cover; }
   .tile.tile-8 .tile-inner {
- background background-image: url('styletile/128.jpg');
+ background background-image: url('styletile/6.jpg');
       
     background-size: cover; }
   .tile.tile-16 .tile-inner {
-    background-image: url('styletile/1024.jpg');
+    background-image: url('styletile/8.jpg');
       
     background-size: cover; }
   .tile.tile-32 .tile-inner {
@@ -342,7 +342,7 @@ hr {
      
     background-size: cover; }
   .tile.tile-128 .tile-inner {
-    background-image: url('styletile/2.jpg');
+    background-image: url('styletile/128.jpg');
      
     background-size: cover; }
     @media screen and (max-width: 520px) {
